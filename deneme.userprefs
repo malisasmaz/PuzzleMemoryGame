@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\3 - Puzzle Game Controller\CreatePuzzleButtonsAndAnimators.cs">
+    <Files>
+      <File FileName="Assets\Scripts\1 - Puzzle Menu Controller Scripts\SelectPuzzle.cs" Line="16" Column="54" />
+      <File FileName="Assets\Scripts\2 - Puzzle Level Controller Scripts\SelectLevel.cs" Line="28" Column="38" />
+      <File FileName="Assets\Scripts\3 - Puzzle Game Controller\LayoutPuzzleButtons.cs" Line="136" Column="7" />
+      <File FileName="Assets\Scripts\3 - Puzzle Game Controller\SetupPuzzleGame.cs" Line="119" Column="30" />
+      <File FileName="Assets\Scripts\3 - Puzzle Game Controller\PuzzleGameManager.cs" Line="24" Column="51" />
+      <File FileName="Assets\Scripts\3 - Puzzle Game Controller\CreatePuzzleButtonsAndAnimators.cs" Line="60" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
